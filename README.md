@@ -5,7 +5,7 @@
 
 - 🤓 I enjoy learning **constantly**.
 - 💬 My interest revolves around developing swift applications through JavaScript, React, and CSS.
-- 💻 Check out my portfolio  <a href="([https://paolamontilla-portafolio.github.io/portafolio.html](https://paomlz.github.io/PaolaMontillaPortafolio.github.io/portafolio.html))" target="_blank" > ---> Click!!</a>
+- 💻 Check out my portfolio <a href="https://paomlz.github.io/PaolaMontillaPortafolio.github.io/portafolio.html" target="_blank">---> Click!!</a>
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: **apmontillal@gmail.com**
 - ⚡ Fun fact: I love: 📚  Books, music 🎶 and  🌳 trekking
